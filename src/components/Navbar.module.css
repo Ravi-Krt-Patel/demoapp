@@ -1,0 +1,22 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+.container{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.container-child{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.container-child-child{
+	margin-right:20px;
+	cursor: pointer;
+}

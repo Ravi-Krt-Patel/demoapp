@@ -1,0 +1,98 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "description": "A product description is the marketing copy that explains what a product is and why it's worth purchasing. The purpose of a product description is to supply customers with important information about the features and benefits of the product so they're compelled to buy",
+      "imag url": "https://media.istockphoto.com/id/1427249962/photo/tropical-leaves-abstract-green-leaf-texture-in-garden-nature-background.jpg?b=1&s=170667a&w=0&k=20&c=40KcV7mbAQWihuO0At8GSOTIKp-TvIoHGIhurHBeUq0="
+    },
+    {
+      "id": 2,
+      "description": "A product description is the marketing copy that explains what a product is and why it's worth purchasing. The purpose of a product description is to supply customers with important information about the features and benefits of the product so they're compelled to buy",
+      "imag url": "https://media.istockphoto.com/id/1427249962/photo/tropical-leaves-abstract-green-leaf-texture-in-garden-nature-background.jpg?b=1&s=170667a&w=0&k=20&c=40KcV7mbAQWihuO0At8GSOTIKp-TvIoHGIhurHBeUq0="
+    },
+    {
+      "id": 3,
+      "description": "A product description is the marketing copy that explains what a product is and why it's worth purchasing. The purpose of a product description is to supply customers with important information about the features and benefits of the product so they're compelled to buy",
+      "imag url": "https://media.istockphoto.com/id/1427249962/photo/tropical-leaves-abstract-green-leaf-texture-in-garden-nature-background.jpg?b=1&s=170667a&w=0&k=20&c=40KcV7mbAQWihuO0At8GSOTIKp-TvIoHGIhurHBeUq0="
+    }
+  ],
+  "employee": [
+    {
+      "name": "John",
+      "age": "25"
+    },
+    {
+      "name": "Sudheer",
+      "age": "23"
+    },
+    {
+      "name": "Sumit",
+      "age": "30"
+    }
+  ],
+  "login": [
+    {
+      "userName": "ravi kumar patel",
+      "userEmail": "ravi@g.com",
+      "userPassword": "12345",
+      "id": 1
+    },
+    {
+      "userName": "sourabh hupare",
+      "userEmail": "sourabh@g.com",
+      "userPassword": "12345",
+      "id": 2
+    }
+  ],
+  "blog": [
+    {
+      "title": "java",
+      "category": "coding",
+      "tag": "string",
+      "description": "java is a programming language",
+      "id": 3
+    },
+    {
+      "title": "java",
+      "category": "coding",
+      "tag": "string",
+      "description": "java is a programming language",
+      "id": 4
+    },
+    {
+      "title": "HTML",
+      "category": "coding language",
+      "tag": "",
+      "description": "",
+      "id": 5
+    },
+    {
+      "title": "HTML",
+      "category": "coding ",
+      "tag": "div",
+      "description": "java is a programming language",
+      "id": 6
+    },
+    {
+      "title": "fsdfsd",
+      "category": "sdfsdfsd",
+      "tag": "fdsfsd",
+      "description": "dsfsdf",
+      "id": 7
+    },
+    {
+      "title": "sdfsdf",
+      "category": "fsdfsd",
+      "tag": "fsdfsd",
+      "description": "sdfsdfsd",
+      "id": 8
+    },
+    {
+      "title": "sdfsdf",
+      "category": "fsdfsd",
+      "tag": "fsdfsd",
+      "description": "sdfsdfsd",
+      "id": 9
+    }
+  ]
+}
